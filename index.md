@@ -1,26 +1,23 @@
-## Welcome to GitHub Pages
+# Yuqing Xing
 
-You can use the [editor on GitHub](https://github.com/yubaba123/-http-yubaba123.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a PhD student in School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/) , China. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Adviser： [Zhen Huan](https://huanzhen84.github.io/zhenhuan/)
 
-### Markdown
+Research Interests：Algebraic topology, Applied topology 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email：d202080021@hust.edu.cn
 
-```markdown
-Syntax highlighted code block
+Adress：Luoyu Road 1037, Wuhan, China
 
-# Header 1
-## Header 2
+Avocation：Table tennis, Hiking
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Education
+2019- Huazhong University of Science and Technology
+2014-2019 Nanchang Hangkong University
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Presentation
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yubaba123/-http-yubaba123.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
