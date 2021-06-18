@@ -1,30 +1,8 @@
 # Yuqing Xing
 
-I'm a PhD student in School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/) , China. My adviser is [Zhen Huan](https://huanzhen84.github.io/zhenhuan/).
+I'm a PhD student in School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/) , China.
 
-Research Interests：Algebraic topology, Applied topology 
-
-Email：d202080021@hust.edu.cn
-
-Adress：Luoyu Road 1037, Wuhan, China
-
-Avocations：Table tennis, Hiking
-
-
-### Education
-2019- Huazhong University of Science and Technology
-2014-2019 Nanchang Hangkong University
-
-### Presentation
-PH for Data of Plant Morphology()
-
-The Seifert-van Kampen Theorem in Category()
-
-
-
-                    <li><a href="notes/gts/min-model-Postnikov-tower.pdf" target="_blank">Notes</a></li>
-                    </div>
-            </p> 
+My adviser is [Zhen Huan](https://huanzhen84.github.io/zhenhuan/).
 
 <table border="0">
   <tr>
@@ -39,3 +17,18 @@ The Seifert-van Kampen Theorem in Category()
     </td>
   </tr>
 </table>
+
+
+### Education
+
+2019-       Huazhong University of Science and Technology
+2014-2019   Nanchang Hangkong University
+
+### Presentation
+
+[PH for Data of Plant Morphologyy](), June,2020.
+
+[The Seifert-van Kampen Theorem in Category]() MAy,2021
+
+
+
