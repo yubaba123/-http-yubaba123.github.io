@@ -11,7 +11,7 @@ My adviser is [Zhen Huan](https://huanzhen84.github.io/zhenhuan/).
       <p><b>Research Interests：Algebraic topology, Applied topology </b></p>
       <p><b>Email：d202080021@hust.edu.cn</b></p>
       <p><b>Adress：Luoyu Road 1037, Wuhan, China</b></p>
-      <p><b>Avocations：Table tennis, Hiking</b></p>
+      <p><b>Hobbies：Table tennis, Hiking</b></p>
     </td>
     <td width="25%">
       <img src="/personal photo.jpg" width="100%">     
