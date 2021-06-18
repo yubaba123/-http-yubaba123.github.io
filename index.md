@@ -4,6 +4,7 @@ I'm a PhD student in School of Mathematics and Statistics at [Huazhong Universit
 
 My adviser is [Zhen Huan](https://huanzhen84.github.io/zhenhuan/).
 
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -18,17 +19,18 @@ My adviser is [Zhen Huan](https://huanzhen84.github.io/zhenhuan/).
   </tr>
 </table>
 
-
-### Education
+## Education
 
 2019-       Huazhong University of Science and Technology
+
 2014-2019   Nanchang Hangkong University
 
-### Presentation
+## Presentation
 
-[PH for Data of Plant Morphologyy](), June,2020.
+[PH for Data of Plant Morphology](The Seifert-van Kampen Theorem in Category.pdf), June,2020.
 
-[The Seifert-van Kampen Theorem in Category]() MAy,2021
+[The Seifert-van Kampen Theorem in Category](Persistent Homology for Data of Plant Morphology.pdf), May,2021
+
 
 
 
