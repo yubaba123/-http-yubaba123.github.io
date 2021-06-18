@@ -21,11 +21,11 @@ My adviser is [Zhen Huan](https://huanzhen84.github.io/zhenhuan/).
 
 ## Education
 
-2019-       Huazhong University of Science and Technology
+2019-     :  Huazhong University of Science and Technology
 
-2014-2019   Nanchang Hangkong University
+2014-2019 :  Nanchang Hangkong University
 
 ## Presentation
-[The Seifert-van Kampen Theorem in Category](https://github.com/yubaba123/yuqing.github.io/blob/gh-pages/The%20Seifert-van%20Kampen%20Theorem%20in%20Category.pdf), June,2020.
+[The Seifert-van Kampen Theorem in Category](https://github.com/yubaba123/yuqing.github.io/blob/gh-pages/The%20Seifert-van%20Kampen%20Theorem%20in%20Category.pdf), June, 2020.
 
-[PH for Data of Plant Morphology](https://github.com/yubaba123/yuqing.github.io/blob/gh-pages/Persistent%20Homology%20for%20Data%20of%20Plant%20Morphology.pdf), May,2021
+[PH for Data of Plant Morphology](https://github.com/yubaba123/yuqing.github.io/blob/gh-pages/Persistent%20Homology%20for%20Data%20of%20Plant%20Morphology.pdf), May, 2021
