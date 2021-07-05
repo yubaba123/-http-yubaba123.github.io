@@ -14,7 +14,7 @@ My adviser is [Zhen Huan](https://huanzhen84.github.io/zhenhuan/).
       <p><b>Hobbies：Table tennis, Plants</b></p>
     </td>
     <td width="15%">
-      <img src="/personal photo.jpg" width="40%">     
+      <img src="/personal photo.jpg" width="100%">     
     </td>
   </tr>
 </table>
