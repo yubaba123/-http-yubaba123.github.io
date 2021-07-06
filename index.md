@@ -13,6 +13,9 @@ My adviser is [Zhen Huan](https://huanzhen84.github.io/zhenhuan/).
       <p><b>Adress：Luoyu Road 1037, Wuhan, China</b></p>
       <p><b>Hobbies：Table tennis, Plants</b></p>
     </td>
+     <td width="15%">
+      <img src="/personal photo.jpg" width="60%">     
+    </td>
   </tr>
 </table>
 
