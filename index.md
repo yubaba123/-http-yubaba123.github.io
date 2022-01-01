@@ -7,7 +7,6 @@ My adviser is Zhen Huan.
 
 <table border="0">
   <tr>
-    <td width="70%">
       <p><b>Research Interests：Algebraic topology, Topology data analysis</b></p>
       <p><b>Email：d202080021@hust.edu.cn</b></p>
       <p><b>Adress：Luoyu Road 1037, Wuhan, China</b></p>
