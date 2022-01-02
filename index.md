@@ -9,9 +9,7 @@ Research Interests：Algebraic topology, Topological data analysis
 Hobbies：Table tennis, Plants
 
 ## Contact
-Innovation Research Institute, Huazhong University of Science and Technology
-
-1037 Luoyu Road, Wuhan, China
+Adress: Innovation Research Institute(En Ming Building), 1037 Luoyu Road, Wuhan, China
 
 Email：d202080021@hust.edu.cn
 
