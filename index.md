@@ -1,24 +1,25 @@
-# Yuqing Xing
+## About
 
 I'm a PhD student in School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/) , China.
 
-My adviser is Zhen Huan.
+My adviser is Zhen Huan. 
 
+Research Interests：Algebraic topology, Topological data analysis
 
-<table border="0">
-  <tr>
-      <p><b>Research Interests：Algebraic topology, Topology data analysis</b></p>
-      <p><b>Email：d202080021@hust.edu.cn</b></p>
-      <p><b>Adress：Luoyu Road 1037, Wuhan, China</b></p>
-      <p><b>Hobbies：Table tennis, Plants</b></p>
-  </tr>
-</table>
+Hobbies：Table tennis, Plants
+
+## Contact
+Innovation Research Institute, Huazhong University of Science and Technology
+
+1037 Luoyu Road, Wuhan, China
+
+Email：d202080021@hust.edu.cn
 
 ## Education
 
-2019-     :  Huazhong University of Science and Technology
+2019-     :  [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
 
-2014-2019 :  Nanchang Hangkong University
+2014-2019 :  [Nanchang Hangkong University](https://www.nchu.edu.cn/)
 
 ## Presentation
 [The Seifert-van Kampen Theorem in Category](https://github.com/yubaba123/yuqing.github.io/blob/gh-pages/The%20Seifert-van%20Kampen%20Theorem%20in%20Category.pdf), June, 2020.
@@ -27,7 +28,7 @@ My adviser is Zhen Huan.
 
 [PH for Data of Plant Morphology](https://github.com/yubaba123/yuqing.github.io/blob/gh-pages/Persistent%20Homology%20for%20Data%20of%20Plant%20Morphology.pdf), May, 2021.
 
-[Types of Topology Data Analysis](https://github.com/yubaba123/yuqing/blob/gh-pages/Types%20of%20Topology%20Data%20Analysis.pdf), August, 2021.
+[Types of Topological Data Analysis](https://github.com/yubaba123/yuqing/blob/gh-pages/Types%20of%20Topology%20Data%20Analysis.pdf), August, 2021.
 
 [Persistent Cohomology](https://github.com/yubaba123/yuqing/blob/gh-pages/Persistent%20Cohomology.pdf.pdf), September, 2021.
 
