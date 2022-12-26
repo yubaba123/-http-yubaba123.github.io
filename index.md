@@ -8,7 +8,7 @@ Research Interests：Mathematical theory of deep learning, Topological data anal
 
 Hobbies：Table tennis, Plants
 
-My name in Chinese: 邢雨晴. It was taken from a Tang Dynasty poem of the same name written by poet Wang Jia.
+Chinese Name: 邢雨晴. It was taken from a poem of the same name “Yuqing” written by poet Wang Jia.
 
 ## Contact
 Adress: Innovation Research Institute(En Ming Building), 1037 Luoyu Road, Wuhan, China
