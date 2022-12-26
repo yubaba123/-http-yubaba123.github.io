@@ -8,6 +8,8 @@ Research Interests： Mathematical theory of deep learning, Topological data ana
 
 Hobbies：Table tennis, Plants
 
+My name in Chinese: 邢雨晴. It was taken from a Tang Dynasty poem of the same name written by poet Wang Jia.
+
 ## Contact
 Adress: Innovation Research Institute(En Ming Building), 1037 Luoyu Road, Wuhan, China
 
@@ -15,9 +17,11 @@ Email：d202080021@hust.edu.cn
 
 ## Education
 
-2019-     :  [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
+2020-     : doctor, [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
 
-2014-2019 :  [Nanchang Hangkong University](https://www.nchu.edu.cn/)
+2019-2020 : master, [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
+
+2014-2019 : undergraduate, [Nanchang Hangkong University](https://www.nchu.edu.cn/)
 
 ## Presentation
 [The Seifert-van Kampen Theorem in Category](https://github.com/yubaba123/yuqing.github.io/blob/gh-pages/The%20Seifert-van%20Kampen%20Theorem%20in%20Category.pdf), June, 2020.
