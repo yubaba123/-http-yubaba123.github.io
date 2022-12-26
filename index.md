@@ -4,7 +4,7 @@ I'm a PhD student in School of Mathematics and Statistics at [Huazhong Universit
 
 My adviser is [Quan Zheng](https://baike.baidu.com/item/%E9%83%91%E6%9D%83/2288675). 
 
-Research Interests： Mathematical theory of deep learning, Topological data analysis
+Research Interests：Mathematical theory of deep learning, Topological data analysis
 
 Hobbies：Table tennis, Plants
 
