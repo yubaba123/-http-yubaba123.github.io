@@ -1,5 +1,5 @@
 
-I'm a PhD student in School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
+I'm Yuqing Xing, a PhD student in School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
 
 My adviser is [Quan Zheng](https://baike.baidu.com/item/%E9%83%91%E6%9D%83/2288675). 
 
