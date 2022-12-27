@@ -5,9 +5,9 @@ My adviser is [Quan Zheng](https://baike.baidu.com/item/%E9%83%91%E6%9D%83/22886
 
 Research Interests：Mathematical theory of deep learning, Topological data analysis
 
-Hobbies：Table tennis, Plants
+Hobbies：Plants,Table tennis
 
-Chinese Name: 邢雨晴. It was taken from a poem of the same name “Yuqing” written by poet Wang Jia.
+Chinese Name: 邢雨晴, the same name “Yuqing” of a Tang poem written by Jia Wang.
 
 ## Contact
 Adress: Yifu technology Building, 1037 Luoyu Road, Wuhan, China
