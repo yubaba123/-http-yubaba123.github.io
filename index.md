@@ -1,5 +1,5 @@
 
-I'm Yuqing Xing, a PhD student in School of Mathematics and Statistics at [Huazhong University of Science and Technology](http://english.hust.edu.cn/), China.
+I'm Yuqing Xing, a PhD student in School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
 
 My adviser is [Quan Zheng](https://baike.baidu.com/item/%E9%83%91%E6%9D%83/2288675). 
 
@@ -20,11 +20,11 @@ Email：d202080021@hust.edu.cn
 
 ## Education
 
-2020-     : doctor, [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
+2020-     : doctor, [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
 
 2019-2020 : master, [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
 
-2014-2019 : undergraduate, [Nanchang Hangkong University](https://www.nchu.edu.cn/en)
+2014-2019 : undergraduate, [Nanchang Hangkong University](https://www.nchu.edu.cn/) 
 
 ## Presentation
 [The Seifert-van Kampen Theorem in Category](https://github.com/yubaba123/yuqing.github.io/blob/gh-pages/The%20Seifert-van%20Kampen%20Theorem%20in%20Category.pdf), June, 2020.
