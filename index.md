@@ -9,7 +9,7 @@ Hobbies：Plants, Table tennis
 
 Chinese Name: 邢雨晴, the same name “Yuqing” of a Tang poem written by Jia Wang.
 
-<img src="https://github.com/yuqing-xing/yuqing/blob/gh-pages/personal%20photo.jpg" width="143" height="200" alt="抖音小程序"/><br/>
+<img src="https://github.com/yuqing-xing/yuqing/blob/gh-pages/personal%20photo.jpg" width="143" height="200" alt="数学"/><br/>
 
 
 ## Contact
