@@ -1,5 +1,5 @@
 
-I'm Yuqing Xing, a PhD student in School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
+I'm a PhD student in School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
 
 My adviser is [Quan Zheng](https://baike.baidu.com/item/%E9%83%91%E6%9D%83/2288675). 
 
@@ -7,7 +7,7 @@ Research Interests：Mathematical theory of deep learning, Topological data anal
 
 Hobbies：Plants, Table tennis
 
-Chinese Name: 邢雨晴, the same name “Yuqing” of a Tang poem written by Jia Wang.
+Chinese Name: 邢雨晴
 
 <!---
 <p><img src="https://github.com/yuqing-xing/yuqing/blob/gh-pages/personal%20photo.jpg" width="143" height="200" alt=""/></p>
