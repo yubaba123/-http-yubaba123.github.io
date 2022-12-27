@@ -9,8 +9,9 @@ Hobbies：Plants, Table tennis
 
 Chinese Name: 邢雨晴, the same name “Yuqing” of a Tang poem written by Jia Wang.
 
-<img src="https://github.com/yuqing-xing/yuqing/blob/gh-pages/personal%20photo.jpg" width="143" height="200" alt=""/><br/>
-
+<!---
+<p><img src="https://github.com/yuqing-xing/yuqing/blob/gh-pages/personal%20photo.jpg" width="143" height="200" alt=""/></p>
+-->
 
 ## Contact
 Adress: Yifu technology Building, 1037 Luoyu Road, Wuhan, China
