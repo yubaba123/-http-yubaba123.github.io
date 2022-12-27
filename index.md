@@ -11,7 +11,7 @@ Hobbies：Table tennis, Plants
 Chinese Name: 邢雨晴. It was taken from a poem of the same name “Yuqing” written by poet Wang Jia.
 
 ## Contact
-Adress: Innovation Research Institute(En Ming Building), 1037 Luoyu Road, Wuhan, China
+Adress: Yifu technology Building, 1037 Luoyu Road, Wuhan, China
 
 Email：d202080021@hust.edu.cn
 
