@@ -1,11 +1,11 @@
 
-I'm a PhD student in School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
+I'm a PhD student in the School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
 
 My adviser is [Quan Zheng](http://maths.hust.edu.cn/info/1094/2635.htm). 
 
-Research Interests：Mathematical theory of deep learning, Topological data analysis
+Research Interests： Mathematical theory of deep learning, Topological data analysis
 
-Hobbies：Plants, Table tennis
+Hobbies： Plants, Jogging
 
 Chinese Name: 邢雨晴
 
@@ -14,7 +14,7 @@ Chinese Name: 邢雨晴
 -->
 
 ## Contact
-Adress: Yifu technology Building, 1037 Luoyu Road, Wuhan, China
+Address: Yifu Technology Building, 1037 Luoyu Road, Wuhan, China
 
 Email：d202080021@hust.edu.cn
 
