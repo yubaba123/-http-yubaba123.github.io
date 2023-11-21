@@ -3,9 +3,9 @@ I'm a PhD student in the School of Mathematics and Statistics at [Huazhong Unive
 
 My adviser is [Quan Zheng](http://maths.hust.edu.cn/info/1094/2635.htm). 
 
-Research Interests：Mathematical theory of deep learning, Topological data analysis
+Research Interests: Mathematical theory of deep learning, Topological data analysis
 
-Hobbies：Plants, Jogging
+Hobbies: Plants, Jogging
 
 Chinese Name: 邢雨晴
 
