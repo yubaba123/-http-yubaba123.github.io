@@ -20,7 +20,7 @@ Email：d202080021@hust.edu.cn
 
 ## Education
 
-2020-     : Ph.D. student, [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
+2020- present : Ph.D. student, [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
 
 2019-2020 : Graduate, [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
 
@@ -31,8 +31,6 @@ Email：d202080021@hust.edu.cn
 [The Seifert-van Kampen Theorem in Category](https://github.com/yuqing-xing/yuqing/blob/gh-pages/The%20Seifert-van%20Kampen%20Theorem%20in%20Category.pdf), June, 2020.
 
 [PH for Data of Plant Morphology](https://github.com/yuqing-xing/yuqing/blob/gh-pages/Persistent%20Homology%20for%20Data%20of%20Plant%20Morphology.pdf), May, 2021.
-
-[Persistent Cohomology](https://github.com/yuqing-xing/yuqing/blob/gh-pages/Persistent%20Cohomology.pdf  ), September, 2021.
 
 [Persistent homology applied in leaf classifying](https://github.com/yuqing-xing/yuqing/blob/gh-pages/Persistent%20homology%20applied%20in%20leaf%20classifying.pdf), November, 2021.
 
