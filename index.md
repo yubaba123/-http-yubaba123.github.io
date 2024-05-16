@@ -5,7 +5,7 @@
     <!--- basic page needs
     ================================================== -->
     <meta charset="utf-8">
-    <title>SUSTech Topology</title>
+    <title>YUqing Xing</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
