@@ -27,7 +27,9 @@ Email：d202080021@hust.edu.cn
 2014-2019 : Undergraduate, [Nanchang Hangkong University](https://www.nchu.edu.cn/) 
 
 ## Presentation
-[Quantification of plant leaf morphology based on TDA]("Xing21.pdf"), January, 2022.
+[Quantification of plant leaf morphology based on TDA](https://github.com/yuqing-xing/yuqing/blob/0956e13879c6218357436dc53faf74ef7301be8b/Quantification%20of%20plant%20leaf%20morphology%20based%20on%20TDA.pdf), January, 2022.
+
+<li>Mao Li et al, <a href="Quantification of plant leaf morphology based on TDA.pdf" target="_blank">Quantification of plant leaf morphology based on TDA</a></li>
 
 [Persistent homology applied in leaf classifying](https://github.com/yuqing-xing/yuqing/blob/gh-pages/Persistent%20homology%20applied%20in%20leaf%20classifying.pdf), November, 2021.
 
