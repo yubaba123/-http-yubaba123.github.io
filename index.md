@@ -31,6 +31,7 @@ Email：d202080021@hust.edu.cn
 
 <a href="Persistent homology applied in leaf classifying.pdf" target="_blank">Persistent homology applied in leaf classifying</a>, November, 2021.
 
-[PH for Data of Plant Morphology](https://github.com/yuqing-xing/yuqing/blob/gh-pages/Persistent%20Homology%20for%20Data%20of%20Plant%20Morphology.pdf), May, 2021.
+<a href="Persistent Homology for Data of Plant Morphology.pdf" target="_blank">Persistent homology for Data of Plant Morphology</a>, May, 2021.
+
 
 <a href="The Seifert-van Kampen Theorem in Category.pdf" target="_blank">The Seifert-van Kampen Theorem in Category</a>, June, 2020.
