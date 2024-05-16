@@ -27,12 +27,10 @@ Email：d202080021@hust.edu.cn
 2014-2019 : Undergraduate, [Nanchang Hangkong University](https://www.nchu.edu.cn/) 
 
 ## Presentation
-[Quantification of plant leaf morphology based on TDA](https://github.com/yuqing-xing/yuqing/blob/0956e13879c6218357436dc53faf74ef7301be8b/Quantification%20of%20plant%20leaf%20morphology%20based%20on%20TDA.pdf), January, 2022.
+<a href="Quantification of plant leaf morphology based on TDA.pdf" target="_blank">Quantification of plant leaf morphology based on TDA</a>, January, 2022.
 
-<li>Mao Li et al, <a href="Quantification of plant leaf morphology based on TDA.pdf" target="_blank">Quantification of plant leaf morphology based on TDA</a></li>
-
-[Persistent homology applied in leaf classifying](https://github.com/yuqing-xing/yuqing/blob/gh-pages/Persistent%20homology%20applied%20in%20leaf%20classifying.pdf), November, 2021.
+<a href="Persistent homology applied in leaf classifying.pdf" target="_blank">Persistent homology applied in leaf classifying</a>, November, 2021.
 
 [PH for Data of Plant Morphology](https://github.com/yuqing-xing/yuqing/blob/gh-pages/Persistent%20Homology%20for%20Data%20of%20Plant%20Morphology.pdf), May, 2021.
 
-[The Seifert-van Kampen Theorem in Category](https://github.com/yuqing-xing/yuqing/blob/gh-pages/The%20Seifert-van%20Kampen%20Theorem%20in%20Category.pdf), June, 2020.
+<a href="The Seifert-van Kampen Theorem in Category.pdf" target="_blank">The Seifert-van Kampen Theorem in Category</a>, June, 2020.
