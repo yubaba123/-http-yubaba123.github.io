@@ -1,78 +1,36 @@
-<html class="no-js" lang="en">
-<head>
 
-    <!--- basic page needs
-    ================================================== -->
-    <meta charset="utf-8">
-    <title>YUqing Xing</title>
-    <meta name="description" content="">
-    <meta name="author" content="">
+I'm a PhD student in the School of Mathematics and Statistics at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
 
-    <!-- mobile specific metas
-    ================================================== -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+My adviser is [Quan Zheng](http://maths.hust.edu.cn/info/1094/2635.htm). 
 
-    <!-- CSS
-    ================================================== -->
-    <link rel="stylesheet" href="/css/base.css">
-    <link rel="stylesheet" href="/css/vendor.css">
-    <link rel="stylesheet" href="/css/main.css">
+Research Interests: Mathematical theory of deep learning, Topological data analysis
 
-    <!-- script
-    ================================================== -->
-    <script src="/js/modernizr.js"></script>
-    <script src="/js/pace.min.js"></script>
-<script type="text/javascript">
-<!--
-    function toggle_visibility(id) {
-       var e = document.getElementById(id);
-       if(e.style.display == 'block')
-          e.style.display = 'none';
-       else
-          e.style.display = 'block';
-    }
-//-->
-</script>
+Hobbies: Plants, Jogging
 
+Chinese Name: 邢雨晴
 
-<body id="top">
+<!---
+<p><img src="https://github.com/yuqing-xing/yuqing/blob/gh-pages/personal%20photo.jpg" width="143" height="200" alt=""/></p>
+-->
 
-    <!-- pageheader
-    ================================================== -->
-    <section class="s-pageheader s-pageheader--home">
+## Contact
+Address: Yifu Technology Building, 1037 Luoyu Road, Wuhan, China
 
-        <header class="header">
-            <div class="header__content row">
+Email：d202080021@hust.edu.cn
 
-                <div class="header__logo">
-                       SUSTech Topology 
-                </div> <!-- end header__logo -->
+## Education
 
+2020- present : Ph.D. student, [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
 
-<article class="row format-standard">
+2019-2020 : Graduate, [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
 
-<h3><a id="T"></a>Talks in Spring 2021 (mostly Mondays 9&ndash;12 in Huiyuan 3-415)</h3>
+2014-2019 : Undergraduate, [Nanchang Hangkong University](https://www.nchu.edu.cn/) 
 
-            <p>May 24, '21, 
-                <b>Yuqing Xing</b>, 
-                <a onclick="toggle_visibility('29');">
-                    <i>Persistent homology for data of plant morphology</i></a><br/>
-                <div id="29" class="toshow" style="display:none">
-                    <li><a href="Xing21.pdf" target="_blank">Slides</a></li>
-                    <li>Mao Li et al, <a href="https://doi.org/10.3389/fpls.2018.00553" target="_blank">Topological data analysis as a morphometric method: using persistent homology to demarcate a leaf morphospace</a></li>
-                    <li>Mao Li et al, <a href="https://doi.org/10.1104/pp.18.00104" target="_blank">The persistent homology mathematical framework provides enhanced genotype-to-phenotype associations for plant morphology</a></li>     
-                <li>Mao Li et al, <a href="https://doi.org/10.1093/jxb/erz394" target="_blank">Characterizing 3D inflorescence architecture in grapevine using X-ray imaging and advanced morphometrics: implications for understanding cluster density</a></li>     
-                </div>
-            </p>
+## Presentation
+[Quantification of plant leaf morphology based on TDA]("Xing21.pdf"), January, 2022.
 
+[Persistent homology applied in leaf classifying](https://github.com/yuqing-xing/yuqing/blob/gh-pages/Persistent%20homology%20applied%20in%20leaf%20classifying.pdf), November, 2021.
 
+[PH for Data of Plant Morphology](https://github.com/yuqing-xing/yuqing/blob/gh-pages/Persistent%20Homology%20for%20Data%20of%20Plant%20Morphology.pdf), May, 2021.
 
-    <!-- Java Script
-    ================================================== -->
-    <script src="/js/jquery-3.2.1.min.js"></script>
-    <script src="/js/plugins.js"></script>
-    <script src="/js/main.js"></script>
-
-</body>
-
-</html>
+[The Seifert-van Kampen Theorem in Category](https://github.com/yuqing-xing/yuqing/blob/gh-pages/The%20Seifert-van%20Kampen%20Theorem%20in%20Category.pdf), June, 2020.
