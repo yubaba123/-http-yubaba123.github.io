@@ -33,5 +33,4 @@ Email：d202080021@hust.edu.cn
 
 <a href="Persistent Homology for Data of Plant Morphology.pdf" target="_blank">Persistent homology for Data of Plant Morphology</a>, May, 2021.
 
-
 <a href="The Seifert-van Kampen Theorem in Category.pdf" target="_blank">The Seifert-van Kampen Theorem in Category</a>, June, 2020.
