@@ -24,7 +24,7 @@ Email：d202080021@hust.edu.cn
 
 2019-2020 : Graduate, [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
 
-2014-2019 : Undergraduate, [Nanchang Hangkong University](https://www.nchu.edu.cn/en) 
+2014-2019 : Undergraduate, [Nanchang Hangkong University](https://www.nchu.edu.cn/) 
 
 ## Presentation
 <a href="Quantification of plant leaf morphology based on TDA.pdf" target="_blank">Quantification of plant leaf morphology based on TDA</a>, January, 2022.
